@@ -1,0 +1,288 @@
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGender.resources
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmTypeOfExam.resources
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmPatient.resources
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGender.resources
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGenero.resources
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGenero.resources
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGenero.resources
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmEstado.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmGenero.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorio.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPrincipal.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEmpleado.resources
+C:\Users\HP\Desktop\Practica\PracticaClase\LABORATORIO-main\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorista.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEmpleado.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEstado.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmGenero.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorio.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorista.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPrincipal.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmUsuario.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEmpleado.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEstado.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmGenero.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmInventory.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorio.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorista.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPrincipal.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmProduct.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmTypeOfExam.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmUsuario.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPaciente.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmExamen.resources
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmTipoExamen.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.exe
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.View.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.xml
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.AssemblyReference.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEmpleado.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmEstado.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmExamen.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmGenero.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmInventory.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorio.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLaboratorista.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPaciente.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPrincipal.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmProduct.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmTipoExamen.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmUsuario.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.Properties.Resources.resources
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.GenerateResource.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CoreCompileInputs.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.csproj.CopyComplete
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.exe
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmCompra.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmExamen.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmFactura.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmInventory.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmLog.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmPaciente.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.FrmProduct.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmRolUsuario.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmTipoExamen.resources
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.View\obj\Debug\Laboratorio.View.frmTipoUsuario.resources

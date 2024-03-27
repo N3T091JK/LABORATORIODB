@@ -1,0 +1,126 @@
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HOME\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Proyecto Laboratorio DK\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\RespaldoLab\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\HP\Desktop\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\Documents\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.BussinesLogic.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.DataAccess.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.pdb
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\Laboratorio.Entities.dll.config
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.csproj.CopyComplete
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.dll
+C:\Users\kary_\escritorio\LABORATORIO\Laboratorio\Laboratorio.BussinesLogic\obj\Debug\Laboratorio.BussinesLogic.pdb
